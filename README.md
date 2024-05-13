@@ -1,2 +1,2 @@
 # 1hrOthelloCustom
-Inspired from the reversi section in a book * 小一時間でゲームをつくる *.
+Inspired from the reversi section in a book *小一時間でゲームをつくる*.
