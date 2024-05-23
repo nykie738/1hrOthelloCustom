@@ -1,5 +1,5 @@
 # 1hrOthelloCustom
-Inspired from the reversi section in a book *小一時間でゲームをつくる*.
+Inspired from the reversi section in a book called *小一時間でゲームをつくる*.
 
 The content inside the book utilizes <conio.h>, which is only offered in Windows OS.
 The book in also more targeted towards the use of C language, instead of C++.
