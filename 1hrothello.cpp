@@ -10,7 +10,7 @@
 
 #define BOARD_WIDTH     (8)
 #define BOARD_HEIGHT    (8)
-const int CELL_SIZE = 100;
+const int CELL_SIZE = 100; // Change the cell value to 80 if the white border below is not enough to fit 2 rows
 const int BORDER_HEIGHT = 100;
 const int WINDOW_SIZE = BOARD_HEIGHT * CELL_SIZE;
 const int TOTAL_WINDOW_HEIGHT = WINDOW_SIZE + BORDER_HEIGHT;
