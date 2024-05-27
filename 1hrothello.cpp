@@ -71,7 +71,7 @@ public:
 
     // Initialize the font and text objects
     void InitText() {
-        if (!font.loadFromFile("misaki_gothic_2nd.ttf")) { // Use a font file (e.g. "arial.ttf")
+        if (!font.loadFromFile("misaki_gothic_2nd.ttf")) { // Use a font file (e.g., "arial.ttf")
             std::cerr << "Failed to load font." << std::endl;
             // Error handling (e.g. exit the program)
             std::exit(EXIT_FAILURE);
