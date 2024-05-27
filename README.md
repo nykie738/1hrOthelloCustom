@@ -1,6 +1,6 @@
 
 # UPDATE
-Depending on the size of the display monitor you use, the max height or width of the window may vary. If you encounter the issue of the window being cut off at the bottom, try changing the value of the CELL_SIZE (e.g. CELL_SIZE = 100 --> CELL_SIZE = 80).
+Depending on the size of the display monitor you use, the max height or width of the window may vary. If you encounter the issue of the window being cut off at the bottom, try changing the value of the CELL_SIZE (e.g., CELL_SIZE = 100 --> CELL_SIZE = 80).
 
 # 1hrOthelloCustom
 Inspired from the reversi section in a book called *小一時間でゲームをつくる*.
